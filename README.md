@@ -1,28 +1,28 @@
 # 📊 Sales Tracker Excel Dashboard
 
-## 🔹 Project Overview
-This project is an Advanced Excel-based Sales Tracker used to monitor sales performance, KPIs, and trends.
+#Project Title
+Sales & Revenue Growth Tracker in Excel
 
-## 🔹 Features
-- KPI Cards (Revenue, Profit, Orders)
-- Interactive Dashboard with Slicers
-- Region-wise and Product-wise Analysis
-- Monthly Sales Trends
+#Objective
+Analyze sales data and track revenue growth.
 
-## 🔹 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts & Slicers
+#Tools
+Excel
+Pivot Tables
+Charts
 
-## 🔹 File
-- Sales_Tracker.xlsx
+#Dataset
+Contains sales transactions with revenue and profit.
 
-## 🔹 Insights
-- Identified top-performing regions
-- Analyzed monthly growth trends
-- Improved decision-making using KPIs
+#Features
+KPI Tracking
+Dashboard
+Filters
+Insights
+Top regions
+Best products
 
-## 🔹 Author
-Juvvadi Tanvitha
 
+#Conclusion
+Improves business decision-making.
 
